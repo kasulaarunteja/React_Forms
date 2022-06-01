@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "Name": "asdasd",
+      "Age": "2000",
+      "Address": "2ssss",
+      "Department": "",
+      "Salary": "22222",
+      "Marital_Status": "Male",
+      "id": 1
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 2
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 3
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 4
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 5
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Female",
+      "id": 6
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 7
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 8
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "4",
+      "Address": "gsdfgsdfggsd",
+      "Department": "Mechanical",
+      "Salary": "4",
+      "Marital_Status": "Male",
+      "id": 9
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "5",
+      "Address": "h no 8-276 jayram nagar ",
+      "Department": "",
+      "Salary": "6",
+      "Marital_Status": "Male",
+      "id": 10
+    },
+    {
+      "Name": "KASULA AKHIL TEJA",
+      "Age": "5",
+      "Address": "h no 8-276 jayram nagar ",
+      "Department": "",
+      "Salary": "6",
+      "Marital_Status": "Male",
+      "id": 11
+    }
+  ]
+}
